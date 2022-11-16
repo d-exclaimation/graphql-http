@@ -18,7 +18,8 @@ let schema = try GraphQLSchema(
 
 let app = try Application(
     .specified(
-        port: .init(ProcessInfo.processInfo.environment["PORT"] ?? "0") ?? 0
+        port: .init(ProcessInfo.processInfo.environment["PORT"] ?? "0") ?? 0,
+        host: "127.0.0.1"
     )
 )
 
