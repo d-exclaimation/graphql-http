@@ -731,6 +731,7 @@ If you want a feature-full server with bleeding edge technologies, you're recomm
 
 | Name                                                               | Audit                                                                |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| [**pioneer (swift)**](https://pioneer-graphql.netlify.app)         | [✅ Compliant](/implementations/pioneer-swift/README.md)             |
 | [graphql-yoga](https://www.the-guild.dev/graphql/yoga-server)      | [✅ Compliant (0 warnings)](/implementations/graphql-yoga/README.md) |
 | [hotchocolate](https://chillicream.com/docs/hotchocolate)          | [✅ Compliant (0 warnings)](/implementations/hotchocolate/README.md) |
 | [postgraphile](https://www.graphile.org/postgraphile/)             | [✅ Compliant](/implementations/postgraphile/README.md)              |
